@@ -1,6 +1,17 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sistema E-commerce – FROT-END E FRAMEWORKS / REACT NATIVE – REACT DOM – AXIOS –
+JSON SERVER E DATA BASE JSON;
+UNIVERSIDADE DA AMAZÔNIA
+BACHARELADO EM CIÊNCIAS DA COMPUTAÇÃO
+CIÊNCIAS E TECNÓLOGIA; 
+ALUNA : Kamila
+Ferreira de
+Oliveira;
+Matricula – 04161426;
+Turma: ALC 0790104NNA;
+Período: Noite;
+Professor(a): Luiz Leão
 
 ## Available Scripts
 
